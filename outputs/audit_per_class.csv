@@ -1,0 +1,48 @@
+dimension,group,label,n,recall
+length_group,long,Bank accounts,17,0.8235294117647058
+length_group,long,Credit cards,21,0.7142857142857143
+length_group,long,Credit reporting,184,0.9456521739130435
+length_group,long,Debt collection,17,0.8235294117647058
+length_group,long,Money services,3,0.6666666666666666
+length_group,long,Mortgages,9,0.8888888888888888
+length_group,long,Payday/title/personal loans,2,0.0
+length_group,long,Student loans,6,0.8333333333333334
+length_group,long,Vehicle loans,4,0.5
+length_group,medium,Bank accounts,21,0.8571428571428571
+length_group,medium,Credit cards,18,0.8888888888888888
+length_group,medium,Credit reporting,275,0.9672727272727273
+length_group,medium,Debt collection,41,0.7073170731707317
+length_group,medium,Money services,7,0.5714285714285714
+length_group,medium,Mortgages,6,0.6666666666666666
+length_group,medium,Payday/title/personal loans,1,0.0
+length_group,medium,Student loans,2,0.5
+length_group,medium,Vehicle loans,5,0.4
+length_group,short,Bank accounts,7,0.5714285714285714
+length_group,short,Credit cards,5,0.8
+length_group,short,Credit reporting,81,0.9506172839506173
+length_group,short,Debt collection,16,0.625
+length_group,short,Money services,4,0.75
+length_group,short,Payday/title/personal loans,3,0.0
+length_group,short,Student loans,1,0.0
+length_group,short,Vehicle loans,1,1.0
+style_proxy,formal_detailed_proxy,Bank accounts,9,0.7777777777777778
+style_proxy,formal_detailed_proxy,Credit cards,9,0.5555555555555556
+style_proxy,formal_detailed_proxy,Credit reporting,74,0.9324324324324325
+style_proxy,formal_detailed_proxy,Debt collection,6,0.6666666666666666
+style_proxy,formal_detailed_proxy,Money services,1,1.0
+style_proxy,formal_detailed_proxy,Mortgages,8,0.875
+style_proxy,formal_detailed_proxy,Payday/title/personal loans,1,0.0
+style_proxy,formal_detailed_proxy,Student loans,3,1.0
+style_proxy,formal_detailed_proxy,Vehicle loans,2,0.5
+style_proxy,informal_short_proxy,Credit cards,3,1.0
+style_proxy,informal_short_proxy,Credit reporting,1,1.0
+style_proxy,informal_short_proxy,Debt collection,1,0.0
+style_proxy,unassigned,Bank accounts,36,0.8055555555555556
+style_proxy,unassigned,Credit cards,32,0.84375
+style_proxy,unassigned,Credit reporting,465,0.9612903225806452
+style_proxy,unassigned,Debt collection,67,0.7313432835820896
+style_proxy,unassigned,Money services,13,0.6153846153846154
+style_proxy,unassigned,Mortgages,7,0.7142857142857143
+style_proxy,unassigned,Payday/title/personal loans,5,0.0
+style_proxy,unassigned,Student loans,6,0.5
+style_proxy,unassigned,Vehicle loans,8,0.5

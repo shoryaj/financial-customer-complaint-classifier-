@@ -1,0 +1,10 @@
+{
+  "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?size=10000&no_aggs=true&has_narrative=true",
+  "retrieved_utc": "2026-09-13T19:21:19.605100+00:00",
+  "rows": 10000,
+  "selection": "First API result window under server default ordering; not a random database sample.",
+  "date_range": [
+    "2024-08-26T08:44:50.000Z",
+    "2024-09-04T07:16:19.000Z"
+  ]
+}

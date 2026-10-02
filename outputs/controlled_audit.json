@@ -1,0 +1,43 @@
+[
+  {
+    "dimension": "length_group",
+    "group_1": "short",
+    "group_2": "long",
+    "eligible_classes": 4,
+    "class_results": [
+      [
+        "Bank accounts",
+        7,
+        0.5714285714285714,
+        0.7142857142857143
+      ],
+      [
+        "Credit cards",
+        5,
+        0.8,
+        1.0
+      ],
+      [
+        "Credit reporting",
+        81,
+        0.9506172839506173,
+        0.9506172839506173
+      ],
+      [
+        "Debt collection",
+        16,
+        0.625,
+        0.875
+      ]
+    ],
+    "equal_class_accuracy_gap_group2_minus_group1": 0.14821428571428572
+  },
+  {
+    "dimension": "style_proxy",
+    "group_1": "informal_short_proxy",
+    "group_2": "formal_detailed_proxy",
+    "eligible_classes": 0,
+    "class_results": [],
+    "equal_class_accuracy_gap_group2_minus_group1": null
+  }
+]

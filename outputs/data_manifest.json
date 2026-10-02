@@ -1,0 +1,21 @@
+{
+  "source_rows": 10000,
+  "eligible_rows": 10000,
+  "sample_limit": 30000,
+  "retained": 5042,
+  "conflicting_rows_removed": 190,
+  "rare_classes_excluded": {
+    "Prepaid cards": 22,
+    "Debt/credit management": 15
+  },
+  "unmapped_products": [],
+  "seed": 42,
+  "split_sizes": {
+    "train": 3529,
+    "validation": 756,
+    "test": 757
+  },
+  "split": "70/15/15 stratified random",
+  "source_file": "complaints.csv",
+  "source_sha256": "3bd2a4ef07eff6c665e3b6cbc20f91600874b5ae629f39bdaf9ae407b98a4794"
+}
